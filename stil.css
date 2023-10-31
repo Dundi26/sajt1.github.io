@@ -1,0 +1,14 @@
+.font{
+
+    color: aqua;
+  font: bold;  
+}
+
+.pozad {
+    background-image: url("pozadina1.jpg") ;
+    height: 720px;
+    width: 1920px;
+    background-repeat: no-repeat;
+    object-fit: contain;
+
+}
